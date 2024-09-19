@@ -67,7 +67,6 @@ section {
     border-radius: 5px;
     background-color: var(--white);
     height: 100%;
-    flex: 1;
 }
 
 section h2 {
